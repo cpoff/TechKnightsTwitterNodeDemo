@@ -1,4 +1,4 @@
-# Creating a basic Twitter Bot in Node.js
+# Creating a basic Twitter Bot in Node
 
 In this workshop, we will be making a Twitter bot written in Javascript using Node.js. What are these words I am saying??
 
