@@ -2,7 +2,7 @@
 
 In this workshop, we will be making a Twitter bot written in Javascript using Node.js. What are these words I am saying??
 
-#### Twitter bot???
+#### Twitter bot??
 A Twitter bot is a typically an application that you write that listens for something to happen on twitter and than does something in response. In our case, we'll be listening for someone to tweet with a certain hashtag and then tweet something when that happens.
 
 #### Javascript???
